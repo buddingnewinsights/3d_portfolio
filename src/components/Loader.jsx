@@ -6,7 +6,8 @@ const CanvasLoader = () => {
   return (
     <Html
       as="div"
-      centerstyle={{
+      center
+      style={{
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
